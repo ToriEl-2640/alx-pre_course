@@ -1,1 +1,6 @@
 touch up_to_date
+git add .
+git commit -m "How to get up to date in git"
+git fetch git@github.com:ToriEl-2640/alx-pre_course.git
+git pull git@github.com:ToriEl-2640/alx-pre_course.git
+git push git@github.com:ToriEl-2640/alx-pre_course.git
